@@ -5,7 +5,3 @@
 ### Чем делюсь здесь
 
 Открытые инструменты на стыке социальных наук и AI — прежде всего для академической работы: структурированное рецензирование статей по критериям ВАК/Scopus, проверка рукописей перед подачей в журнал.
-
-### Научные профили
-
-[ORCID](https://orcid.org/0000-0002-0778-7171) · [Google Scholar](https://scholar.google.com/citations?user=nFADEQkAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Inna-Gazieva-2) · [eLibrary](https://www.elibrary.ru/author_profile.asp?authorid=532316)
