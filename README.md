@@ -1,16 +1,15 @@
-## Hi there 👋
+## Инна Газиева
 
-<!--
-**inna-gazieva/inna-gazieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Доктор социологических наук, профессор РАНХиГС. Исследую ценности молодёжи, молодёжную политику и социальное проектирование; занимаюсь академической экспертизой и применением AI в научной работе.
 
-Here are some ideas to get you started:
+🌐 **Сайт:** [inna-gazieva.ru](https://inna-gazieva.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 **Об AI-рецензировании научных статей:** [статья и метод](https://inna-gazieva.ru/blog/ai-recenzent-nauchnoj-stati/)
+
+### Чем делюсь здесь
+
+Открытые инструменты на стыке социальных наук и AI — прежде всего для академической работы: структурированное рецензирование статей по критериям ВАК/Scopus, проверка рукописей перед подачей в журнал.
+
+### Научные профили
+
+[ORCID](https://orcid.org/0000-0002-0778-7171) · [Google Scholar](https://scholar.google.com/citations?user=nFADEQkAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Inna-Gazieva-2) · [eLibrary](https://www.elibrary.ru/author_profile.asp?authorid=532316)
